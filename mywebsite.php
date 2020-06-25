@@ -75,10 +75,12 @@
                 <img src = "d.jpg" alt ="website" class = "buttonsAll">
             </button>
         </p>
-
-        <a href = "main.php">
-             <button type = "button" class= "block">
+                <a href = "main.php">
                 <img src = "well.jpg" alt ="website" class = "block">
+
+             <button type = "button" class= "block">
+
+
             </button>
         </a>
     </body>
